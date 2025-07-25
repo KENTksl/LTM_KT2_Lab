@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\",
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|d:\\downloadd\\ltm_kt2_lab\\lmt_kt2_lab\\f_phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|solutionrelative:f_phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:F_PhanQuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|d:\\downloadd\\ltm_kt2_lab\\lmt_kt2_lab\\f_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|solutionrelative:f_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:F_PhanQuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 662b2e92e138decfc49e6edde96ffdeffdbd3914
-      "RelativeMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|d:\\downloadd\\ltm_kt2_lab\\lmt_kt2_lab\\f_phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|solutionrelative:f_phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\f_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:f_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,52 +30,50 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "F_PhanQuyen.cs",
-              "DocumentMoniker": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs",
               "RelativeDocumentMoniker": "F_PhanQuyen.cs",
-              "ToolTip": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs",
               "RelativeToolTip": "F_PhanQuyen.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:31:11.893Z",
+              "WhenOpened": "2025-07-25T01:59:38.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "F_PhanQuyen.cs [Design]",
-              "DocumentMoniker": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs",
               "RelativeDocumentMoniker": "F_PhanQuyen.cs",
-              "ToolTip": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs [Design]",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_PhanQuyen.cs [Design]",
               "RelativeToolTip": "F_PhanQuyen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:29:39.84Z",
+              "WhenOpened": "2025-07-25T01:59:39.116Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:12:52.951Z"
+              "WhenOpened": "2025-07-25T01:59:39.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "F_DangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_DangNhap.cs",
               "RelativeDocumentMoniker": "F_DangNhap.cs",
               "ToolTip": "D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\F_DangNhap.cs [Design]",
-              "RelativeToolTip": "F_DangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:12:36.042Z",
-              "EditorCaption": " [Design]"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-25T01:59:39.126Z"
             }
           ]
         }
