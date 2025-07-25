@@ -11,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|solutionrelative:f_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|D:\\DownloadD\\LTM_KT2_Lab\\LMT_KT2_Lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|C:\\Users\\acer\\Desktop\\LTM_KT2_Lab\\LMT_KT2_Lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 662b2e92e138decfc49e6edde96ffdeffdbd3914
       "RelativeMoniker": "D:0:0:{7526FB95-BD23-4EDF-8B19-2B840E11FFB5}|LMT_KT2_Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,8 +67,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:12:52.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T01:12:52.951Z"
             },
             {
               "$type": "Document",

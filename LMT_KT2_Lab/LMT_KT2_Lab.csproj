@@ -60,8 +60,13 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <EmbeddedResource Include="F_PhanQuyen.resx">
       <DependentUpon>F_PhanQuyen.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="F_DangNhap.resx">
+      <DependentUpon>F_DangNhap.cs</DependentUpon>
+>>>>>>> 662b2e92e138decfc49e6edde96ffdeffdbd3914
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
