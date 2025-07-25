@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\bin\Debug\LMT_KT2_Lab.exe.config
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\bin\Debug\LMT_KT2_Lab.exe
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\bin\Debug\LMT_KT2_Lab.pdb
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.F_DangNhap.resources
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.Properties.Resources.resources
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.exe
+C:\Users\acer\Desktop\LTM_KT2_Lab\LMT_KT2_Lab\obj\Debug\LMT_KT2_Lab.pdb
